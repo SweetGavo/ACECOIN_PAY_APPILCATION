@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  background: url('/Users/decagon/acecoin_app/acecoinpay_app/src/images/bg.jpg');
+  background: url('../src/images/bg.jpg');
   background-repeat: no-repeat;
   background-position: left;
 }
@@ -16,7 +16,7 @@ body {
 
 .noShow{
   height: 20em;
-  background-color: #6895ee;
+  background-color: #ffff;
   padding: 5em;
   text-align: center;
   margin: 10em;
